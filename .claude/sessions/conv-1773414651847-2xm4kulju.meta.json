@@ -1,0 +1,19 @@
+{
+  "id": "conv-1773414651847-2xm4kulju",
+  "title": "Start conversation with greeting",
+  "titleGenerationStatus": "success",
+  "createdAt": 1773414651853,
+  "updatedAt": 1773417023030,
+  "lastResponseAt": 1773417023030,
+  "sessionId": "57250163-cb38-47bc-b99f-093212163ba7",
+  "sdkSessionId": "57250163-cb38-47bc-b99f-093212163ba7",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
